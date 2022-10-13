@@ -1,0 +1,7 @@
+{
+    "out": "docs",
+    "entryPointStrategy": "packages",
+    "entryPoints": [
+        "libs/data/services/products-service"
+    ]
+}
